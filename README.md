@@ -2,7 +2,7 @@
 
 Trabalho I da disciplina **Introdução à Visão Computacional** (PUCRS, Escola Politécnica). Pipeline de visão computacional **clássica** (sem deep learning) sobre imagens de folhas de tomate do PlantVillage.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucasnk1/tomate-classificacao-visao-classica/blob/main/notebook/PlantVillage_VisaoComputacional.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucasnk1/tomate-classificacao-visao-classica/blob/main/PlantVillage_VisaoComputacional.ipynb)
 
 ## Resumo
 
