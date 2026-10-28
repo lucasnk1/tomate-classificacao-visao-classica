@@ -1,0 +1,19 @@
+# dados e artefatos pesados
+*.npz
+*.joblib
+*.zip
+data/
+plantvillage*/
+# ambiente e lixo
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# credenciais (nunca versionar)
+kaggle.json
+.env
+# arquivos auxiliares do LaTeX
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
